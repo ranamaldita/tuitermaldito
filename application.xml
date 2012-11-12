@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<application xmlns="http://ns.adobe.com/air/application/2.0">
+  <filename>Tuitermaldito</filename>
+  <copyright>@2012 rananetworks.cl</copyright>
+  <customUpdateUI>false</customUpdateUI>
+  <id>tuitermaldito</id>
+  <version>1</version>
+  <initialWindow>
+    <content>index.html</content>
+    <height>550</height>
+    <width>350</width>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+  </initialWindow>
+</application>
